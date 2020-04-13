@@ -29,7 +29,7 @@ nav {
 h1 {
     font-family: "bungee inline";
     font-size: 46px;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 #menu {
@@ -81,7 +81,7 @@ dd {
     margin: 0;
 }
 
-dd::after {
+dd:after {
     content: " ";
     display: block;
     clear: both;
